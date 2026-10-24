@@ -1,0 +1,11 @@
+.vercel
+.env*
+!.env.example
+node_modules/
+.venv/
+dist/
+.pptx-build/
+deliverables/
+__pycache__/
+.pytest_cache/
+*.py[cod]

@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+.vercel/
+.pytest_cache/
+.pptx-build/
+deliverables/
+**/__pycache__/
+backend/test_*.py
+requirements-dev.txt
+.env*
+!.env.example
